@@ -2,6 +2,9 @@
 How to Setup ELK Stack in Ubuntu with Filebeat to collect logs from servers    , https://www.youtube.com/watch?v=PcDkGZI0rJk
 
 
+How to Setup ELK Stack in Ubuntu with Filebeat to collect logs from servers 
+
+
 1  apt-get update
     2  sudo apt-get install openjdk-8-jdk
     3  wget -qO - https://artifacts.elastic.co/GPG-KEY-... | sudo apt-key add -
